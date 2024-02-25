@@ -13,7 +13,7 @@ Una idea general del resultado buscado es clave para cumplir los requerimientos.
 dejamos esta pequeña ayuda del funcionamiento buscando en el gif que se llama
 “demo”.
 
-![](https://raw.githubusercontent.com/sgcm14/0523C02-instaFront-maquetado/main/img/InstFront-desktop.png)
+![](https://raw.githubusercontent.com/sgcm14/0523C02-proyecto-entregable1/main/Demo.gif?token=GHSAT0AAAAAACNFLCYBOLXW4RG5LYHBXVJAZO23CNQ)
 > Pantalla de **Demo**
 
 **Desafío:**
