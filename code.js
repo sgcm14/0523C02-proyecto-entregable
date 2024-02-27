@@ -90,7 +90,7 @@ function recorrerListadoYRenderizarTarjetas() {
     listado.forEach((materia) => {
       const tarjeta = document.createElement("div");
 
-      tarjeta.classList.add("card", "caja");
+      tarjeta.classList.add("caja");
       tarjeta.innerHTML = `
       <img src="${materia.imgUrl}" alt="${materia.lenguajes}" />
       <div class="card-body">
